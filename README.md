@@ -37,4 +37,5 @@ bindkey '^z' fancy-ctrl-z
 ```
 
 Show: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/fancy-ctrl-z/README.md
+
 Source: http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/
