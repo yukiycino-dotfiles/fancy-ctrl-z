@@ -1,6 +1,8 @@
+#! /usr/bin/env zsh
+
 fancy-ctrl-z () {
   if [[ $#BUFFER -eq 0 ]]; then
-    BUFFER="fg"
+    BUFFER=" fg"
     zle accept-line
   else
     zle push-input
