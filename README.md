@@ -7,8 +7,7 @@
 Include the load command in your .zshrc
 
 ```
-zgen load yuki-ycino/fancy-ctrl-z
-zgen save
+zgen load yukiycino-dotfiles/fancy-ctrl-z
 ```
 
 ### Using zplug
@@ -16,7 +15,7 @@ zgen save
 Load cdd as a plugin in your .zshrc
 
 ```
-zplug "yuki-ycino/fancy-ctrl-z"
+zplug "yukiycino-dotfiles/fancy-ctrl-z"
 ```
 
 ### Using Antigen
@@ -24,8 +23,7 @@ zplug "yuki-ycino/fancy-ctrl-z"
 Bundle cdd in your .zshrc
 
 ```
-antigen bundle yuki-ycino/fancy-ctrl-z
-antigen apply
+antigen bundle yukiycino-dotfiles/fancy-ctrl-z
 ```
 
 ## Settings
